@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/een96"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="co.parhyme.lifemoment.MainActivity">
+
+
+    <ProgressBar
+        android:id="@+id/progressBarSeconds"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/shape_size"
+        android:layout_gravity="center"
+
+        android:layout_marginTop="19dp"
+        android:animationResolution="60"
+        android:background="@android:color/transparent"
+        android:elevation="5dp"
+        android:indeterminate="false"
+        android:max="60"
+        android:progressDrawable="@drawable/cost_prgs" />
+
+    <ProgressBar
+        android:id="@+id/progressBarMinutes"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/shape_size"
+        android:layout_below="@id/progressBarSeconds"
+        android:layout_gravity="center"
+        android:layout_marginTop="19dp"
+        android:animationResolution="60"
+        android:indeterminate="false"
+        android:max="60"
+        android:progressDrawable="@drawable/cost_prgs" />
+
+    <ProgressBar
+        android:id="@+id/progressBarHours"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/shape_size"
+        android:layout_below="@id/progressBarMinutes"
+        android:layout_gravity="center"
+        android:layout_marginTop="19dp"
+        android:animationResolution="24"
+        android:indeterminate="false"
+        android:max="24"
+        android:progressDrawable="@drawable/cost_prgs" />
+
+    <ProgressBar
+        android:id="@+id/progressBarDays"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/shape_size"
+        android:layout_below="@id/progressBarHours"
+
+        android:layout_gravity="center"
+        android:layout_marginTop="19dp"
+        android:animationResolution="31"
+        android:indeterminate="false"
+        android:max="31"
+        android:progressDrawable="@drawable/cost_prgs" />
+
+    <ProgressBar
+        android:id="@+id/progressBarMonths"
+
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/shape_size"
+        android:layout_below="@id/progressBarDays"
+        android:layout_gravity="center"
+        android:layout_marginTop="19dp"
+        android:animationResolution="12"
+        android:indeterminate="false"
+        android:max="12"
+        android:progressDrawable="@drawable/cost_prgs" />
+
+    <Switch
+        android:text="Saving Mode"
+        android:layout_width="match_parent"
+        android:textColor="@android:color/black"
+
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="@dimen/activity_vertical_margin"
+        android:layout_marginLeft="@dimen/activity_vertical_margin"
+        android:layout_marginBottom="1dp"
+
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/switch1" />
+
+    <TextView
+        android:id="@+id/tvS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginRight="@dimen/activity_vertical_margin"
+        android:layout_marginLeft="@dimen/activity_vertical_margin"
+
+
+        android:elevation="5dp"
+        android:text="Seconds: 90"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"
+        android:textColor="#6ff2e1"
+        android:textSize="45sp"
+        android:fontFamily="sans-serif"
+        android:layout_alignTop="@+id/progressBarSeconds"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/tvM"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="Seconds: 7"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"
+        android:textColor="#6ff2e1"
+        android:textSize="45sp"
+
+        android:fontFamily="sans-serif"
+        android:layout_alignTop="@+id/progressBarMinutes"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/tvH"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="Seconds: 7"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"
+        android:textColor="#6ff2e1"
+        android:textSize="45sp"
+
+        android:fontFamily="sans-serif"
+        android:layout_alignTop="@+id/progressBarHours"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/tvD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="Seconds: 7"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"
+        android:textColor="#6ff2e1"
+        android:textSize="45sp"
+        android:fontFamily="sans-serif"
+        android:layout_alignTop="@+id/progressBarDays"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/tvMo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+
+        android:text="Seconds: 7"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"
+        android:textColor="#6ff2e1"
+        android:textSize="45sp"
+        android:fontFamily="sans-serif"
+        android:layout_alignTop="@+id/progressBarMonths"
+        android:layout_centerHorizontal="true" />
+
+    <ToggleButton
+        android:text="ToggleButton"
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:maxHeight="60dp"
+        android:layout_marginTop="19dp"
+        android:textOn="Georgian Calendar"
+        android:textOff="تقویم خورشیدی"
+        android:background="@drawable/back_button"
+        android:id="@+id/toggleButton"
+        android:layout_below="@id/progressBarMonths"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/floatingActionButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentTop="true"
+        android:layout_gravity="top|end"
+        android:layout_alignParentEnd="true"
+
+        android:alpha="80"
+        android:clickable="true"
+        android:focusable="true"
+        app:srcCompat="@android:drawable/ic_menu_info_details" />
+
+</RelativeLayout>
