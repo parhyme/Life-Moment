@@ -6,3 +6,4 @@ A simple app counting months, days, hours, minutes and seconds remaining till en
 * Android widget
 ## Pictures
 ![Screenshot 1](images/Untitled-1.png?raw=true "Screenshot")
+![Screenshot 1](images/Untitled-2.png?raw=true "Screenshot")
