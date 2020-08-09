@@ -1,4 +1,6 @@
-# Life-Moment
-!برنامه ساده اندروید که تعداد ماه ها، روزها، ساعت ها، دقیقه ها و ثانیه های باقیمانده تا پایان سال شمسی را محاسبه میکند تا قدر زندگی را بداینم 
-دارای ویجت-
-به زبان انگلیسی و فارسی-
+## About The Project
+A simple app counting months, days, hours, minutes and seconds remaining till end of the year just so you know how life goes fast and "Life Moment"s pass quickly.
+## Features
+* Based on Jalali Calender
+* Available in English and Persian languages. 
+* Android widget
