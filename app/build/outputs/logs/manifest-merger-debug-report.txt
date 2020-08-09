@@ -1,0 +1,218 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support:design:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\design-25.0.1.aar\feb62a79c93658e6576345f95dc11235\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\733b8ce5426a969fc8875ffc9ada2dc4\AndroidManifest.xml:17:1-27:12
+MERGED from [cn.fanrunqi:waveprogress:1.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\waveprogress-1.0.1.aar\7addf9c4d0f4382fd63a37eeee82e380\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:transition:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\transition-25.0.1.aar\f42ffc4a55f6027a523d52d6ec5c8091\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\1be72352ccfd330afb50fef5d2c9569b\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2388274045ba3ed4ac0ca5b40e7df5b1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\c8e0eb75c87932b101e25e57c8701b4a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\da318fda228ccf9dc460c8d5bcc63241\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\b9816c59e770948eadfc5941cb988dd9\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\aa22f10f1ee2239e023277e4e58a98bc\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\470547e146ad85d1526b2f4e38400d30\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.0.1.aar\e52ea2cf962c8bacf983d32d73623f21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\659fe23ac6d579c9083785b76c9372c5\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\acc00465abeea048bb262fb5cb60379a\AndroidManifest.xml:17:1-27:12
+INJECTED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml
+		ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml
+		ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:5:5-35:19
+MERGED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:15:5-38:19
+MERGED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:15:5-38:19
+MERGED from [com.android.support:design:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\design-25.0.1.aar\feb62a79c93658e6576345f95dc11235\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\design-25.0.1.aar\feb62a79c93658e6576345f95dc11235\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\733b8ce5426a969fc8875ffc9ada2dc4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\733b8ce5426a969fc8875ffc9ada2dc4\AndroidManifest.xml:25:5-20
+MERGED from [cn.fanrunqi:waveprogress:1.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\waveprogress-1.0.1.aar\7addf9c4d0f4382fd63a37eeee82e380\AndroidManifest.xml:11:5-15:19
+MERGED from [cn.fanrunqi:waveprogress:1.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\waveprogress-1.0.1.aar\7addf9c4d0f4382fd63a37eeee82e380\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:transition:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\transition-25.0.1.aar\f42ffc4a55f6027a523d52d6ec5c8091\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\transition-25.0.1.aar\f42ffc4a55f6027a523d52d6ec5c8091\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\1be72352ccfd330afb50fef5d2c9569b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\1be72352ccfd330afb50fef5d2c9569b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2388274045ba3ed4ac0ca5b40e7df5b1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2388274045ba3ed4ac0ca5b40e7df5b1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\c8e0eb75c87932b101e25e57c8701b4a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\c8e0eb75c87932b101e25e57c8701b4a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\da318fda228ccf9dc460c8d5bcc63241\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\da318fda228ccf9dc460c8d5bcc63241\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\b9816c59e770948eadfc5941cb988dd9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\b9816c59e770948eadfc5941cb988dd9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\aa22f10f1ee2239e023277e4e58a98bc\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\aa22f10f1ee2239e023277e4e58a98bc\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\470547e146ad85d1526b2f4e38400d30\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\470547e146ad85d1526b2f4e38400d30\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\659fe23ac6d579c9083785b76c9372c5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\659fe23ac6d579c9083785b76c9372c5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\acc00465abeea048bb262fb5cb60379a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\acc00465abeea048bb262fb5cb60379a\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:8:9-41
+	android:fullBackupContent
+		ADDED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:16:9-63
+	android:icon
+		ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:10:9-40
+activity#co.parhyme.lifemoment.MainActivity
+ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:11:9-50
+	android:name
+		ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:11:19-47
+receiver#co.parhyme.lifemoment.NewAppWidget
+ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:13:9-21:20
+	android:name
+		ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:14:13-16:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:15:17-84
+	android:name
+		ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:15:25-81
+meta-data#android.appwidget.provider
+ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:18:13-20:63
+	android:resource
+		ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:20:17-60
+	android:name
+		ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:19:17-58
+activity#co.parhyme.lifemoment.SplashActivity
+ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:23:9-29:20
+	android:name
+		ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:23:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:24:13-28:29
+category#android.intent.category.LAUNCHER
+ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:25:27-74
+action#android.intent.action.MAIN
+ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:27:25-66
+activity#co.parhyme.lifemoment.Main2Activity
+ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:30:9-33:47
+	android:label
+		ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:32:13-57
+	android:theme
+		ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:33:13-44
+	android:name
+		ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:31:13-42
+activity#co.parhyme.lifemoment.InfoActivity
+ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:34:9-50
+	android:name
+		ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml:34:19-47
+uses-sdk
+INJECTED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml
+INJECTED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml
+MERGED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:7:5-9:41
+MERGED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\design-25.0.1.aar\feb62a79c93658e6576345f95dc11235\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\design-25.0.1.aar\feb62a79c93658e6576345f95dc11235\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\733b8ce5426a969fc8875ffc9ada2dc4\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\733b8ce5426a969fc8875ffc9ada2dc4\AndroidManifest.xml:21:5-23:78
+MERGED from [cn.fanrunqi:waveprogress:1.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\waveprogress-1.0.1.aar\7addf9c4d0f4382fd63a37eeee82e380\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.fanrunqi:waveprogress:1.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\waveprogress-1.0.1.aar\7addf9c4d0f4382fd63a37eeee82e380\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:transition:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\transition-25.0.1.aar\f42ffc4a55f6027a523d52d6ec5c8091\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\transition-25.0.1.aar\f42ffc4a55f6027a523d52d6ec5c8091\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\1be72352ccfd330afb50fef5d2c9569b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\1be72352ccfd330afb50fef5d2c9569b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2388274045ba3ed4ac0ca5b40e7df5b1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2388274045ba3ed4ac0ca5b40e7df5b1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\c8e0eb75c87932b101e25e57c8701b4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\c8e0eb75c87932b101e25e57c8701b4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\da318fda228ccf9dc460c8d5bcc63241\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\da318fda228ccf9dc460c8d5bcc63241\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\b9816c59e770948eadfc5941cb988dd9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\b9816c59e770948eadfc5941cb988dd9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\aa22f10f1ee2239e023277e4e58a98bc\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\aa22f10f1ee2239e023277e4e58a98bc\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\470547e146ad85d1526b2f4e38400d30\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\470547e146ad85d1526b2f4e38400d30\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.0.1.aar\e52ea2cf962c8bacf983d32d73623f21\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.0.1.aar\e52ea2cf962c8bacf983d32d73623f21\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\659fe23ac6d579c9083785b76c9372c5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\659fe23ac6d579c9083785b76c9372c5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\acc00465abeea048bb262fb5cb60379a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\acc00465abeea048bb262fb5cb60379a\AndroidManifest.xml:21:5-23:58
+INJECTED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml
+INJECTED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.1] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\design-25.0.1.aar\feb62a79c93658e6576345f95dc11235\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml
+		ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml
+		ADDED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidProjects\LifeMoment\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:13:22-73
+service#com.exshinigami.yajm.AsyncWorkerService
+ADDED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:19:13-67
+receiver#com.exshinigami.yajm.BootHandler
+ADDED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:22:9-28:20
+	android:enabled
+		ADDED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:24:13-35
+	android:name
+		ADDED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:23:13-60
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:25:13-27:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:26:17-79
+	android:name
+		ADDED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:26:25-76
+activity#com.anetwork.android.sdk.advertising.view.webbrowser.AnetworkWebBrowserActivity
+ADDED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:30:9-33:69
+	android:configChanges
+		ADDED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:32:13-74
+	android:theme
+		ADDED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:33:13-66
+	android:name
+		ADDED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:31:13-107
+activity#com.anetwork.android.sdk.advertising.view.activity.AnetworkInterstitialActivity
+ADDED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:34:9-37:67
+	android:configChanges
+		ADDED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:36:13-74
+	android:theme
+		ADDED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:37:13-64
+	android:name
+		ADDED from [:anetwork-sdk-1.0.3] C:\Users\Parham\.gradle\caches\transforms-1\files-1.1\anetwork-sdk-1.0.3.aar\3b4591efeffe5281feb4375484e5face\AndroidManifest.xml:35:13-107
